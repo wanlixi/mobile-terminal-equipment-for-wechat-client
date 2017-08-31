@@ -1,6 +1,6 @@
 # mobile-terminal-equipment-for-wechat-client
 mobile terminal equipment for wechat client
-
+```
 -----------------------------------------------------------------
 |  platform       |  orginal RP  |  wechat RP  |  Aspect ratio  |
 -----------------------------------------------------------------
@@ -13,6 +13,7 @@ mobile terminal equipment for wechat client
 |  android        |   360 * 640  |  360 * 570  |     0.632      |
 -----------------------------------------------------------------
                                                |     0.626      |
+```
 
 一般移动端UI设计稿为750 * 1334，而在页面在微信环境打开被默认的标题栏吃掉一部分高度，
 iphone手机固定吃掉都是64，在不考虑平板设备和手机横屏情况下，可以让设计将设计稿在不
